@@ -31,13 +31,15 @@ end
 snon_data.each do |fragment|
 	if(fragment["eR"])
 		fragment["eR"].each do |relation|
-			rel = Hash.new();
-			rel["from"] = fragment["eID"];
-			rel["to"] = relation[1][0];
-			rel["arrows"] = "to";
-			rel["label"] = relation[0];
+			relation[1].each do |destination|
+				rel = Hash.new();
+				rel["from"] = fragment["eID"];
+				rel["to"] = destination;
+				rel["arrows"] = "to";
+				rel["label"] = relation[0];
 
-			snon_relations << rel;
+				snon_relations << rel;
+			end
 		end
 	end
 end

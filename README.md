@@ -41,7 +41,7 @@ Based on Vis documentation: https://github.com/almende/vis/blob/master/examples/
         {"id": 5, "label": "Node 5"}
     ],
     "edges": [
-    {"from": 1, "to": 3, "label": "label"},
+        {"from": 1, "to": 3, "label": "label"},
         {"from": 1, "to": 2},
         {"from": 2, "to": 4, "arrows": "to"},
         {"from": 2, "to": 5}

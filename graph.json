@@ -1,0 +1,324 @@
+{
+  "nodes": [
+    {
+      "id": "urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1",
+      "label": "1840A Edge Display",
+      "group": "device",
+      "title": "<pre>{<br>  \"eC\": \"device\",<br>  \"eID\": \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\",<br>  \"eN\": {<br>    \"*\": \"1840A Edge Display\"<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:6C706AD8-837F-5101-8F48-486176408840",
+      "label": "Entities",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:6C706AD8-837F-5101-8F48-486176408840\",<br>  \"eN\": {<br>    \"*\": \"Entities\"<br>  },<br>  \"v\": [<br>    \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\",<br>    \"urn:uuid:6C706AD8-837F-5101-8F48-486176408840\",<br>    \"urn:uuid:E88A38BB-3769-55A6-A5E8-E0C2399B2E0E\",<br>    \"urn:uuid:1ABA90F1-340D-532F-AC09-1F8AD7124985\",<br>    \"urn:uuid:E1AA08E5-8D72-5EF9-9684-96CB5CC18F7D\",<br>    \"urn:uuid:95FEB3CB-2611-5ECA-8806-7694C42A81E5\",<br>    \"urn:uuid:5071BB17-8C07-50A9-B7DF-3957A74BAE88\",<br>    \"urn:uuid:98F86163-599B-5786-8205-1A91005B7DB9\",<br>    \"urn:uuid:35C96748-BE82-54C3-AB4C-522B83955D45\",<br>    \"urn:uuid:F7033E66-F626-54EE-ADA0-8389C4C5C6ED\",<br>    \"urn:uuid:5C34CDC5-3867-5156-AEED-BE5FAE40C1C9\",<br>    \"urn:uuid:424801DE-2BF1-542E-93CB-13E50074040B\",<br>    \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\",<br>    \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\",<br>    \"urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E\",<br>    \"urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A\",<br>    \"urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205\",<br>    \"urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D\",<br>    \"urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B\",<br>    \"urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6\",<br>    \"urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF\",<br>    \"urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56\",<br>    \"urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142\",<br>    \"urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E\",<br>    \"urn:uuid:EF6804B1-FD57-59E3-9630-A79F8476FE04\",<br>    \"urn:uuid:9D285579-46C5-5979-BDB0-599210BC45C4\",<br>    \"urn:uuid:DDAA371E-796E-57AB-ABDC-9E386A307464\",<br>    \"urn:uuid:1CD30BD6-3831-571C-BFAA-0A1CFE2C4FC1\",<br>    \"urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD\",<br>    \"urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE\",<br>    \"urn:uuid:488049FF-CBB1-50E7-BA2B-21C9022A3882\",<br>    \"urn:uuid:012E09F4-69C4-58DC-A120-410F7246C42C\",<br>    \"urn:uuid:FCE0D6A7-0ADF-58B2-BFD0-C06480BA96B2\",<br>    \"urn:uuid:CF0639D5-8643-54D6-94AA-5CA772DE4B26\"<br>  ],<br>  \"vT\": [<br>    \"11657\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:E88A38BB-3769-55A6-A5E8-E0C2399B2E0E",
+      "label": "Time Measurand",
+      "group": "measurand",
+      "title": "<pre>{<br>  \"meU\": \"s\",<br>  \"meT\": \"iso8601\",<br>  \"meAq\": \"count\",<br>  \"eC\": \"measurand\",<br>  \"eID\": \"urn:uuid:E88A38BB-3769-55A6-A5E8-E0C2399B2E0E\",<br>  \"eN\": {<br>    \"*\": \"Time Measurand\"<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:1ABA90F1-340D-532F-AC09-1F8AD7124985",
+      "label": "Seconds Measurand",
+      "group": "measurand",
+      "title": "<pre>{<br>  \"meU\": \"s\",<br>  \"meT\": \"numeric\",<br>  \"meAq\": \"count\",<br>  \"meUS\": {<br>    \"*\": \"s\"<br>  },<br>  \"meUSx\": {<br>    \"*\": \"seconds\"<br>  },<br>  \"meR\": \"1\",<br>  \"meAc\": \"1\",<br>  \"eC\": \"measurand\",<br>  \"eID\": \"urn:uuid:1ABA90F1-340D-532F-AC09-1F8AD7124985\",<br>  \"eN\": {<br>    \"*\": \"Seconds Measurand\"<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:E1AA08E5-8D72-5EF9-9684-96CB5CC18F7D",
+      "label": "Device Time Sensor",
+      "group": "sensor",
+      "title": "<pre>{<br>  \"eC\": \"sensor\",<br>  \"eID\": \"urn:uuid:E1AA08E5-8D72-5EF9-9684-96CB5CC18F7D\",<br>  \"eN\": {<br>    \"*\": \"Device Time Sensor\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\"<br>    ],<br>    \"measurand\": [<br>      \"urn:uuid:E88A38BB-3769-55A6-A5E8-E0C2399B2E0E\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:95FEB3CB-2611-5ECA-8806-7694C42A81E5",
+      "label": "Device Uptime Sensor",
+      "group": "sensor",
+      "title": "<pre>{<br>  \"eC\": \"sensor\",<br>  \"eID\": \"urn:uuid:95FEB3CB-2611-5ECA-8806-7694C42A81E5\",<br>  \"eN\": {<br>    \"*\": \"Device Uptime Sensor\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\"<br>    ],<br>    \"measurand\": [<br>      \"urn:uuid:1ABA90F1-340D-532F-AC09-1F8AD7124985\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:5071BB17-8C07-50A9-B7DF-3957A74BAE88",
+      "label": "Device Time Series",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:5071BB17-8C07-50A9-B7DF-3957A74BAE88\",<br>  \"eN\": {<br>    \"*\": \"Device Time Series\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:E88A38BB-3769-55A6-A5E8-E0C2399B2E0E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:E1AA08E5-8D72-5EF9-9684-96CB5CC18F7D\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:35C96748-BE82-54C3-AB4C-522B83955D45\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:98F86163-599B-5786-8205-1A91005B7DB9",
+      "label": "Device Uptime Series",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:98F86163-599B-5786-8205-1A91005B7DB9\",<br>  \"eN\": {<br>    \"*\": \"Device Uptime Series\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:1ABA90F1-340D-532F-AC09-1F8AD7124985\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:95FEB3CB-2611-5ECA-8806-7694C42A81E5\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:F7033E66-F626-54EE-ADA0-8389C4C5C6ED\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:35C96748-BE82-54C3-AB4C-522B83955D45",
+      "label": "Device Time",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:35C96748-BE82-54C3-AB4C-522B83955D45\",<br>  \"eN\": {<br>    \"*\": \"Device Time\"<br>  },<br>  \"vT\": [<br>    \"38788939951\"<br>  ],<br>  \"v\": [<br>    \"38788939951\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:F7033E66-F626-54EE-ADA0-8389C4C5C6ED",
+      "label": "Device Uptime",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:F7033E66-F626-54EE-ADA0-8389C4C5C6ED\",<br>  \"eN\": {<br>    \"*\": \"Device Uptime\"<br>  },<br>  \"vT\": [<br>    \"38788951910\"<br>  ],<br>  \"v\": [<br>    \"38788951962\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:5C34CDC5-3867-5156-AEED-BE5FAE40C1C9",
+      "label": "Debug LED RGB",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:5C34CDC5-3867-5156-AEED-BE5FAE40C1C9\",<br>  \"eN\": {<br>    \"*\": \"Debug LED RGB\"<br>  },<br>  \"v\": [<br>    \"0A000A\"<br>  ],<br>  \"vT\": [<br>    \"15455\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:424801DE-2BF1-542E-93CB-13E50074040B",
+      "label": "Bus Designator",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:424801DE-2BF1-542E-93CB-13E50074040B\",<br>  \"eN\": {<br>    \"*\": \"Bus Designator\"<br>  },<br>  \"v\": [<br>    \"WAITING\"<br>  ],<br>  \"vT\": [<br>    \"16074\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "label": "Current Measurand",
+      "group": "measurand",
+      "title": "<pre>{<br>  \"meU\": \"A\",<br>  \"meT\": \"numeric\",<br>  \"meAq\": \"sample\",<br>  \"eC\": \"measurand\",<br>  \"eID\": \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\",<br>  \"eN\": {<br>    \"*\": \"Current Measurand\"<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "label": "Bus Current Sensor",
+      "group": "sensor",
+      "title": "<pre>{<br>  \"eC\": \"sensor\",<br>  \"eID\": \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\",<br>  \"eN\": {<br>    \"*\": \"Bus Current Sensor\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\"<br>    ],<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E",
+      "label": "L1 Current Setpoint",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Setpoint\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
+      "label": "L1 Current Series",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Series\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\"<br>    ],<br>    \"setpoint\": [<br>      \"urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205",
+      "label": "L1 Current LoLo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205\",<br>  \"eN\": {<br>    \"*\": \"L1 Current LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"18715\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D",
+      "label": "L1 Current Lo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"19188\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B",
+      "label": "L1 Current",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B\",<br>  \"eN\": {<br>    \"*\": \"L1 Current\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"19646\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6",
+      "label": "L1 Current SP",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6\",<br>  \"eN\": {<br>    \"*\": \"L1 Current SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"20085\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF",
+      "label": "L1 Current Hi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"20561\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56",
+      "label": "L1 Current HiHi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56\",<br>  \"eN\": {<br>    \"*\": \"L1 Current HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"21023\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142",
+      "label": "L2 Current LoLo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142\",<br>  \"eN\": {<br>    \"*\": \"L2 Current LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"21480\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E",
+      "label": "L2 Current Lo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E\",<br>  \"eN\": {<br>    \"*\": \"L2 Current Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"21936\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:EF6804B1-FD57-59E3-9630-A79F8476FE04",
+      "label": "L2 Current",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:EF6804B1-FD57-59E3-9630-A79F8476FE04\",<br>  \"eN\": {<br>    \"*\": \"L2 Current\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"22394\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:9D285579-46C5-5979-BDB0-599210BC45C4",
+      "label": "L2 Current SP",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:9D285579-46C5-5979-BDB0-599210BC45C4\",<br>  \"eN\": {<br>    \"*\": \"L2 Current SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"22855\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:DDAA371E-796E-57AB-ABDC-9E386A307464",
+      "label": "L2 Current Hi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:DDAA371E-796E-57AB-ABDC-9E386A307464\",<br>  \"eN\": {<br>    \"*\": \"L2 Current Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"23311\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:1CD30BD6-3831-571C-BFAA-0A1CFE2C4FC1",
+      "label": "L2 Current HiHi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:1CD30BD6-3831-571C-BFAA-0A1CFE2C4FC1\",<br>  \"eN\": {<br>    \"*\": \"L2 Current HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"23765\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD",
+      "label": "L3 Current LoLo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD\",<br>  \"eN\": {<br>    \"*\": \"L3 Current LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"24229\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE",
+      "label": "L3 Current Lo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE\",<br>  \"eN\": {<br>    \"*\": \"L3 Current Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"24700\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:488049FF-CBB1-50E7-BA2B-21C9022A3882",
+      "label": "L3 Current",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:488049FF-CBB1-50E7-BA2B-21C9022A3882\",<br>  \"eN\": {<br>    \"*\": \"L3 Current\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"25169\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:012E09F4-69C4-58DC-A120-410F7246C42C",
+      "label": "L3 Current SP",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:012E09F4-69C4-58DC-A120-410F7246C42C\",<br>  \"eN\": {<br>    \"*\": \"L3 Current SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"25656\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:FCE0D6A7-0ADF-58B2-BFD0-C06480BA96B2",
+      "label": "L3 Current Hi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:FCE0D6A7-0ADF-58B2-BFD0-C06480BA96B2\",<br>  \"eN\": {<br>    \"*\": \"L3 Current Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"26134\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:CF0639D5-8643-54D6-94AA-5CA772DE4B26",
+      "label": "L3 Current HiHi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:CF0639D5-8643-54D6-94AA-5CA772DE4B26\",<br>  \"eN\": {<br>    \"*\": \"L3 Current HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"26600\"<br>  ]<br>}</pre>"
+    }
+  ],
+  "edges": [
+    {
+      "from": "urn:uuid:E1AA08E5-8D72-5EF9-9684-96CB5CC18F7D",
+      "to": "urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:E1AA08E5-8D72-5EF9-9684-96CB5CC18F7D",
+      "to": "urn:uuid:E88A38BB-3769-55A6-A5E8-E0C2399B2E0E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:95FEB3CB-2611-5ECA-8806-7694C42A81E5",
+      "to": "urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:95FEB3CB-2611-5ECA-8806-7694C42A81E5",
+      "to": "urn:uuid:1ABA90F1-340D-532F-AC09-1F8AD7124985",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:5071BB17-8C07-50A9-B7DF-3957A74BAE88",
+      "to": "urn:uuid:E88A38BB-3769-55A6-A5E8-E0C2399B2E0E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:5071BB17-8C07-50A9-B7DF-3957A74BAE88",
+      "to": "urn:uuid:E1AA08E5-8D72-5EF9-9684-96CB5CC18F7D",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:5071BB17-8C07-50A9-B7DF-3957A74BAE88",
+      "to": "urn:uuid:35C96748-BE82-54C3-AB4C-522B83955D45",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:98F86163-599B-5786-8205-1A91005B7DB9",
+      "to": "urn:uuid:1ABA90F1-340D-532F-AC09-1F8AD7124985",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:98F86163-599B-5786-8205-1A91005B7DB9",
+      "to": "urn:uuid:95FEB3CB-2611-5ECA-8806-7694C42A81E5",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:98F86163-599B-5786-8205-1A91005B7DB9",
+      "to": "urn:uuid:F7033E66-F626-54EE-ADA0-8389C4C5C6ED",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "to": "urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E",
+      "to": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E",
+      "to": "urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
+      "to": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
+      "to": "urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E",
+      "arrows": "to",
+      "label": "setpoint"
+    },
+    {
+      "from": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
+      "to": "urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B",
+      "arrows": "to",
+      "label": "values"
+    }
+  ]
+}

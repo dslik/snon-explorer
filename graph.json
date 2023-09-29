@@ -10,7 +10,7 @@
       "id": "urn:uuid:6C706AD8-837F-5101-8F48-486176408840",
       "label": "Entities",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:6C706AD8-837F-5101-8F48-486176408840\",<br>  \"eN\": {<br>    \"*\": \"Entities\"<br>  },<br>  \"v\": [<br>    \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\",<br>    \"urn:uuid:6C706AD8-837F-5101-8F48-486176408840\",<br>    \"urn:uuid:E88A38BB-3769-55A6-A5E8-E0C2399B2E0E\",<br>    \"urn:uuid:1ABA90F1-340D-532F-AC09-1F8AD7124985\",<br>    \"urn:uuid:E1AA08E5-8D72-5EF9-9684-96CB5CC18F7D\",<br>    \"urn:uuid:95FEB3CB-2611-5ECA-8806-7694C42A81E5\",<br>    \"urn:uuid:5071BB17-8C07-50A9-B7DF-3957A74BAE88\",<br>    \"urn:uuid:98F86163-599B-5786-8205-1A91005B7DB9\",<br>    \"urn:uuid:35C96748-BE82-54C3-AB4C-522B83955D45\",<br>    \"urn:uuid:F7033E66-F626-54EE-ADA0-8389C4C5C6ED\",<br>    \"urn:uuid:5C34CDC5-3867-5156-AEED-BE5FAE40C1C9\",<br>    \"urn:uuid:424801DE-2BF1-542E-93CB-13E50074040B\",<br>    \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\",<br>    \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\",<br>    \"urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A\",<br>    \"urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B\",<br>    \"urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E\",<br>    \"urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6\",<br>    \"urn:uuid:EA841B2D-C974-5FD7-BA1E-B77AB99E08D4\",<br>    \"urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205\",<br>    \"urn:uuid:DEE1615F-06E6-59A0-BB47-11836845997F\",<br>    \"urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D\",<br>    \"urn:uuid:3CB121CA-CD67-566B-96F7-5FF6CA7132F7\",<br>    \"urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF\",<br>    \"urn:uuid:E8EBA6E4-8075-5942-9F25-AEF164030000\",<br>    \"urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56\",<br>    \"urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142\",<br>    \"urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E\",<br>    \"urn:uuid:EF6804B1-FD57-59E3-9630-A79F8476FE04\",<br>    \"urn:uuid:9D285579-46C5-5979-BDB0-599210BC45C4\",<br>    \"urn:uuid:DDAA371E-796E-57AB-ABDC-9E386A307464\",<br>    \"urn:uuid:1CD30BD6-3831-571C-BFAA-0A1CFE2C4FC1\",<br>    \"urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD\",<br>    \"urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE\",<br>    \"urn:uuid:488049FF-CBB1-50E7-BA2B-21C9022A3882\",<br>    \"urn:uuid:012E09F4-69C4-58DC-A120-410F7246C42C\",<br>    \"urn:uuid:FCE0D6A7-0ADF-58B2-BFD0-C06480BA96B2\",<br>    \"urn:uuid:CF0639D5-8643-54D6-94AA-5CA772DE4B26\"<br>  ],<br>  \"vT\": [<br>    \"11654\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:6C706AD8-837F-5101-8F48-486176408840\",<br>  \"eN\": {<br>    \"*\": \"Entities\"<br>  },<br>  \"v\": [<br>    \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\",<br>    \"urn:uuid:6C706AD8-837F-5101-8F48-486176408840\",<br>    \"urn:uuid:E88A38BB-3769-55A6-A5E8-E0C2399B2E0E\",<br>    \"urn:uuid:1ABA90F1-340D-532F-AC09-1F8AD7124985\",<br>    \"urn:uuid:E1AA08E5-8D72-5EF9-9684-96CB5CC18F7D\",<br>    \"urn:uuid:95FEB3CB-2611-5ECA-8806-7694C42A81E5\",<br>    \"urn:uuid:5071BB17-8C07-50A9-B7DF-3957A74BAE88\",<br>    \"urn:uuid:98F86163-599B-5786-8205-1A91005B7DB9\",<br>    \"urn:uuid:35C96748-BE82-54C3-AB4C-522B83955D45\",<br>    \"urn:uuid:F7033E66-F626-54EE-ADA0-8389C4C5C6ED\",<br>    \"urn:uuid:5C34CDC5-3867-5156-AEED-BE5FAE40C1C9\",<br>    \"urn:uuid:72EE5720-7F93-505C-BB73-38BAAA04C0F5\",<br>    \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\",<br>    \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\",<br>    \"urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A\",<br>    \"urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B\",<br>    \"urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E\",<br>    \"urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6\",<br>    \"urn:uuid:EA841B2D-C974-5FD7-BA1E-B77AB99E08D4\",<br>    \"urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205\",<br>    \"urn:uuid:DEE1615F-06E6-59A0-BB47-11836845997F\",<br>    \"urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D\",<br>    \"urn:uuid:3CB121CA-CD67-566B-96F7-5FF6CA7132F7\",<br>    \"urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF\",<br>    \"urn:uuid:E8EBA6E4-8075-5942-9F25-AEF164030000\",<br>    \"urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56\",<br>    \"urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD\",<br>    \"urn:uuid:EF6804B1-FD57-59E3-9630-A79F8476FE04\",<br>    \"urn:uuid:4A300E19-61F1-59C3-B124-9D0EBAA14254\",<br>    \"urn:uuid:9D285579-46C5-5979-BDB0-599210BC45C4\",<br>    \"urn:uuid:87EBED24-4791-5182-AB10-2E30E0034E96\",<br>    \"urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142\",<br>    \"urn:uuid:CB385DD9-1BDB-5C69-9DAE-DAA1731FD622\",<br>    \"urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E\",<br>    \"urn:uuid:DD35C1BF-614E-5560-AA8E-02470002F8CA\",<br>    \"urn:uuid:DDAA371E-796E-57AB-ABDC-9E386A307464\",<br>    \"urn:uuid:D6749F35-6729-5221-84C4-29ED4F3D5419\",<br>    \"urn:uuid:1CD30BD6-3831-571C-BFAA-0A1CFE2C4FC1\",<br>    \"urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C\",<br>    \"urn:uuid:488049FF-CBB1-50E7-BA2B-21C9022A3882\",<br>    \"urn:uuid:FC8882DC-3AA9-5235-BF94-C18903D27E79\",<br>    \"urn:uuid:012E09F4-69C4-58DC-A120-410F7246C42C\",<br>    \"urn:uuid:09020ACF-AB44-5C27-9D88-BBF5C6BA1005\",<br>    \"urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD\",<br>    \"urn:uuid:A5E6E156-74E9-55F7-A21D-60495FCE8CB9\",<br>    \"urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE\",<br>    \"urn:uuid:F26C1721-7985-599F-B2BB-231D599B7579\",<br>    \"urn:uuid:FCE0D6A7-0ADF-58B2-BFD0-C06480BA96B2\",<br>    \"urn:uuid:0629C499-297B-51BD-9760-70A8AA1BCA66\",<br>    \"urn:uuid:CF0639D5-8643-54D6-94AA-5CA772DE4B26\",<br>    \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\",<br>    \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\",<br>    \"urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97\",<br>    \"urn:uuid:26FB922F-1B3D-526E-B9B4-A2BB0BA6F06F\",<br>    \"urn:uuid:E57B9A46-462E-5A9B-82F4-7EA8954A7E77\",<br>    \"urn:uuid:73E82889-6127-5E0E-8388-EA071FFE62B0\",<br>    \"urn:uuid:DB5F7A9A-DAEA-5610-BBCE-9138BA1C6216\",<br>    \"urn:uuid:41297EB8-2396-5714-A89A-BDFAF85AFAA7\",<br>    \"urn:uuid:1131898E-26BD-5AA0-AB67-B5BA1A281363\",<br>    \"urn:uuid:2B82B84A-B372-5805-8422-1EEC1E96FA56\",<br>    \"urn:uuid:670C842B-9AA8-52EE-9950-194AC67C3C90\",<br>    \"urn:uuid:D7706777-4125-56DB-AF7C-03E90EC38AA6\",<br>    \"urn:uuid:3470D8D6-10B7-55A2-9674-0B64F83391E1\",<br>    \"urn:uuid:6236AE7B-84D3-5574-800A-25E94881BC3C\",<br>    \"urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A\",<br>    \"urn:uuid:4C0A29C4-8DC2-5766-8E3C-406B8F02973C\",<br>    \"urn:uuid:31429B71-CC5A-551F-BF17-C04D59968F43\",<br>    \"urn:uuid:BBA835A9-5146-5E06-B442-6787030B9069\",<br>    \"urn:uuid:22353969-98C8-54F7-8DAE-05BEE84A445D\",<br>    \"urn:uuid:41030E64-C67D-572B-BA21-9759BB3F7B48\",<br>    \"urn:uuid:1FCACE8F-1866-5806-9F88-89AE78CB60A1\",<br>    \"urn:uuid:F65161A6-799D-55EF-81A3-7DD4BCC482ED\",<br>    \"urn:uuid:D0E1EFA6-8588-5C95-88B3-7B08E6A1D032\",<br>    \"urn:uuid:44D23411-C508-5E17-8EF2-0B80DD138271\",<br>    \"urn:uuid:66D8F74E-B250-543C-9E5B-B33A55941D87\",<br>    \"urn:uuid:F9C32FD0-308F-585F-AA26-F3E4F39866BE\",<br>    \"urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2\",<br>    \"urn:uuid:623B4CD2-B2C8-5F3A-BA7C-A53F0EF9299D\",<br>    \"urn:uuid:71F17594-31EA-5E1A-B8AB-796A0417EBCB\",<br>    \"urn:uuid:9AA0D546-7FF4-5781-A9AF-9119B025630E\",<br>    \"urn:uuid:B785CCA0-1E36-5B1D-A3A1-FD062A8738D4\",<br>    \"urn:uuid:505A75E6-5A0D-565C-BA48-C1EB9C873D9B\",<br>    \"urn:uuid:55DE95C6-FB6B-51A9-89BC-E8D8ED24BDBF\",<br>    \"urn:uuid:1341B288-91B8-5953-AB73-D4BCAB214FBF\",<br>    \"urn:uuid:43283AA3-D79D-58B2-A394-9233E48E9F00\",<br>    \"urn:uuid:590EBA36-7874-504C-88B6-C5EDEC9852EA\",<br>    \"urn:uuid:592821AE-88E6-5D73-9AA6-1CFD392D4D13\",<br>    \"urn:uuid:537DE876-6BAD-58F3-B6C8-27AC23BC1032\",<br>    \"urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6\",<br>    \"urn:uuid:35B91CC4-2A0C-5F99-94CF-8CB653E74F35\",<br>    \"urn:uuid:F6E40ADF-30FA-5FFC-B102-D12A2B608381\",<br>    \"urn:uuid:0A020807-8EB8-547C-8658-FB943B38738D\",<br>    \"urn:uuid:0C8F5AA7-FE7C-51D4-8F5D-9069CE8C7C9D\",<br>    \"urn:uuid:EF2B8069-57D3-57A7-ACD7-AFC44F92E4E9\",<br>    \"urn:uuid:D137FCDE-5D0F-5638-9D54-DD747E6E288B\",<br>    \"urn:uuid:939CEDEB-37E1-5A2F-8FE1-9670DA332B18\",<br>    \"urn:uuid:B5F3A221-B019-5C70-BF07-013B9802A666\",<br>    \"urn:uuid:5D3A6517-C70E-581F-91BB-16CB804CE45B\",<br>    \"urn:uuid:211B2903-A418-5157-AD9A-1C5BF9001F94\"<br>  ],<br>  \"vT\": [<br>    \"11592\"<br>  ],<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:E88A38BB-3769-55A6-A5E8-E0C2399B2E0E",
@@ -52,25 +52,25 @@
       "id": "urn:uuid:35C96748-BE82-54C3-AB4C-522B83955D45",
       "label": "Device Time",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:35C96748-BE82-54C3-AB4C-522B83955D45\",<br>  \"eN\": {<br>    \"*\": \"Device Time\"<br>  },<br>  \"vT\": [<br>    \"152966778\"<br>  ],<br>  \"v\": [<br>    \"152966778\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:35C96748-BE82-54C3-AB4C-522B83955D45\",<br>  \"eN\": {<br>    \"*\": \"Device Time\"<br>  },<br>  \"vT\": [<br>    \"17503660\"<br>  ],<br>  \"v\": [<br>    \"17503660\"<br>  ]<br>}</pre>"
     },
     {
       "id": "urn:uuid:F7033E66-F626-54EE-ADA0-8389C4C5C6ED",
       "label": "Device Uptime",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:F7033E66-F626-54EE-ADA0-8389C4C5C6ED\",<br>  \"eN\": {<br>    \"*\": \"Device Uptime\"<br>  },<br>  \"vT\": [<br>    \"152978385\"<br>  ],<br>  \"v\": [<br>    \"152978432\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:F7033E66-F626-54EE-ADA0-8389C4C5C6ED\",<br>  \"eN\": {<br>    \"*\": \"Device Uptime\"<br>  },<br>  \"vT\": [<br>    \"17515244\"<br>  ],<br>  \"v\": [<br>    \"17515295\"<br>  ]<br>}</pre>"
     },
     {
       "id": "urn:uuid:5C34CDC5-3867-5156-AEED-BE5FAE40C1C9",
       "label": "Debug LED RGB",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:5C34CDC5-3867-5156-AEED-BE5FAE40C1C9\",<br>  \"eN\": {<br>    \"*\": \"Debug LED RGB\"<br>  },<br>  \"v\": [<br>    \"0A000A\"<br>  ],<br>  \"vT\": [<br>    \"15444\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:5C34CDC5-3867-5156-AEED-BE5FAE40C1C9\",<br>  \"eN\": {<br>    \"*\": \"Debug LED RGB\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\"<br>    ]<br>  },<br>  \"v\": [<br>    \"0A000A\"<br>  ],<br>  \"vT\": [<br>    \"15560\"<br>  ]<br>}</pre>"
     },
     {
-      "id": "urn:uuid:424801DE-2BF1-542E-93CB-13E50074040B",
-      "label": "Bus Designator",
+      "id": "urn:uuid:72EE5720-7F93-505C-BB73-38BAAA04C0F5",
+      "label": "Firmware Version",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:424801DE-2BF1-542E-93CB-13E50074040B\",<br>  \"eN\": {<br>    \"*\": \"Bus Designator\"<br>  },<br>  \"v\": [<br>    \"WAITING\"<br>  ],<br>  \"vT\": [<br>    \"16054\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:72EE5720-7F93-505C-BB73-38BAAA04C0F5\",<br>  \"eN\": {<br>    \"*\": \"Firmware Version\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\"<br>    ]<br>  },<br>  \"v\": [<br>    \"0.1.0-alpha.4\"<br>  ],<br>  \"vT\": [<br>    \"16291\"<br>  ]<br>}</pre>"
     },
     {
       "id": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
@@ -79,157 +79,529 @@
       "title": "<pre>{<br>  \"meU\": \"A\",<br>  \"meT\": \"numeric\",<br>  \"meAq\": \"sample\",<br>  \"eC\": \"measurand\",<br>  \"eID\": \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\",<br>  \"eN\": {<br>    \"*\": \"Current Measurand\"<br>  }<br>}</pre>"
     },
     {
-      "id": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
-      "label": "Bus Current Sensor",
+      "id": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "label": "=UBA01.PGC01",
       "group": "sensor",
-      "title": "<pre>{<br>  \"eC\": \"sensor\",<br>  \"eID\": \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\",<br>  \"eN\": {<br>    \"*\": \"Bus Current Sensor\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\"<br>    ],<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ]<br>  }<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"sensor\",<br>  \"eID\": \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.PGC01\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6\"<br>    ],<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
       "label": "L1 Current Series",
       "group": "series",
-      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Series\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\"<br>    ],<br>    \"setpoint\": [<br>      \"urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E\"<br>    ],<br>    \"alarms\": [<br>      \"urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205\",<br>      \"urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D\",<br>      \"urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF\",<br>      \"urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B\"<br>    ]<br>  }<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Series\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"setpoint\": [<br>      \"urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E\"<br>    ],<br>    \"alarms\": [<br>      \"urn:uuid:EA841B2D-C974-5FD7-BA1E-B77AB99E08D4\",<br>      \"urn:uuid:DEE1615F-06E6-59A0-BB47-11836845997F\",<br>      \"urn:uuid:3CB121CA-CD67-566B-96F7-5FF6CA7132F7\",<br>      \"urn:uuid:E8EBA6E4-8075-5942-9F25-AEF164030000\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B",
       "label": "L1 Current",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B\",<br>  \"eN\": {<br>    \"*\": \"L1 Current\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"18775\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:5F90F37E-C0CB-5ECE-AA63-85754B6F423B\",<br>  \"eN\": {<br>    \"*\": \"L1 Current\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"18938\"<br>  ]<br>}</pre>"
     },
     {
       "id": "urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E",
       "label": "L1 Current Setpoint",
       "group": "series",
-      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Setpoint\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6\"<br>    ]<br>  }<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Setpoint\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6",
       "label": "L1 Current SP",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6\",<br>  \"eN\": {<br>    \"*\": \"L1 Current SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"19924\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:E7E45B61-61B1-51C0-AB4B-BFF6D3E742E6\",<br>  \"eN\": {<br>    \"*\": \"L1 Current SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"20037\"<br>  ]<br>}</pre>"
     },
     {
       "id": "urn:uuid:EA841B2D-C974-5FD7-BA1E-B77AB99E08D4",
       "label": "L1 Current LoLo Alarm",
       "group": "series",
-      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:EA841B2D-C974-5FD7-BA1E-B77AB99E08D4\",<br>  \"eN\": {<br>    \"*\": \"L1 Current LoLo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205\"<br>    ]<br>  }<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:EA841B2D-C974-5FD7-BA1E-B77AB99E08D4\",<br>  \"eN\": {<br>    \"*\": \"L1 Current LoLo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205",
       "label": "L1 Current LoLo",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205\",<br>  \"eN\": {<br>    \"*\": \"L1 Current LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"21085\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205\",<br>  \"eN\": {<br>    \"*\": \"L1 Current LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"21141\"<br>  ]<br>}</pre>"
     },
     {
       "id": "urn:uuid:DEE1615F-06E6-59A0-BB47-11836845997F",
       "label": "L1 Current Lo Alarm",
       "group": "series",
-      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:DEE1615F-06E6-59A0-BB47-11836845997F\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Lo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D\"<br>    ]<br>  }<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:DEE1615F-06E6-59A0-BB47-11836845997F\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Lo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D",
       "label": "L1 Current Lo",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"22257\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"22231\"<br>  ]<br>}</pre>"
     },
     {
       "id": "urn:uuid:3CB121CA-CD67-566B-96F7-5FF6CA7132F7",
       "label": "L1 Current Hi Alarm",
       "group": "series",
-      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:3CB121CA-CD67-566B-96F7-5FF6CA7132F7\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Hi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF\"<br>    ]<br>  }<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:3CB121CA-CD67-566B-96F7-5FF6CA7132F7\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Hi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF",
       "label": "L1 Current Hi",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"23438\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF\",<br>  \"eN\": {<br>    \"*\": \"L1 Current Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"23336\"<br>  ]<br>}</pre>"
     },
     {
       "id": "urn:uuid:E8EBA6E4-8075-5942-9F25-AEF164030000",
       "label": "L1 Current HiHi Alarm",
       "group": "series",
-      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:E8EBA6E4-8075-5942-9F25-AEF164030000\",<br>  \"eN\": {<br>    \"*\": \"L1 Current HiHi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56\"<br>    ]<br>  }<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:E8EBA6E4-8075-5942-9F25-AEF164030000\",<br>  \"eN\": {<br>    \"*\": \"L1 Current HiHi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56",
       "label": "L1 Current HiHi",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56\",<br>  \"eN\": {<br>    \"*\": \"L1 Current HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"24641\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56\",<br>  \"eN\": {<br>    \"*\": \"L1 Current HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"24446\"<br>  ]<br>}</pre>"
     },
     {
-      "id": "urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142",
-      "label": "L2 Current LoLo",
-      "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142\",<br>  \"eN\": {<br>    \"*\": \"L2 Current LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"25129\"<br>  ]<br>}</pre>"
-    },
-    {
-      "id": "urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E",
-      "label": "L2 Current Lo",
-      "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E\",<br>  \"eN\": {<br>    \"*\": \"L2 Current Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"25605\"<br>  ]<br>}</pre>"
+      "id": "urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD",
+      "label": "L2 Current Series",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD\",<br>  \"eN\": {<br>    \"*\": \"L2 Current Series\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"setpoint\": [<br>      \"urn:uuid:4A300E19-61F1-59C3-B124-9D0EBAA14254\"<br>    ],<br>    \"alarms\": [<br>      \"urn:uuid:87EBED24-4791-5182-AB10-2E30E0034E96\",<br>      \"urn:uuid:CB385DD9-1BDB-5C69-9DAE-DAA1731FD622\",<br>      \"urn:uuid:DD35C1BF-614E-5560-AA8E-02470002F8CA\",<br>      \"urn:uuid:D6749F35-6729-5221-84C4-29ED4F3D5419\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:EF6804B1-FD57-59E3-9630-A79F8476FE04\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:EF6804B1-FD57-59E3-9630-A79F8476FE04",
       "label": "L2 Current",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:EF6804B1-FD57-59E3-9630-A79F8476FE04\",<br>  \"eN\": {<br>    \"*\": \"L2 Current\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"26101\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:EF6804B1-FD57-59E3-9630-A79F8476FE04\",<br>  \"eN\": {<br>    \"*\": \"L2 Current\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"26441\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:4A300E19-61F1-59C3-B124-9D0EBAA14254",
+      "label": "L2 Current Setpoint",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:4A300E19-61F1-59C3-B124-9D0EBAA14254\",<br>  \"eN\": {<br>    \"*\": \"L2 Current Setpoint\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:9D285579-46C5-5979-BDB0-599210BC45C4\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:9D285579-46C5-5979-BDB0-599210BC45C4",
       "label": "L2 Current SP",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:9D285579-46C5-5979-BDB0-599210BC45C4\",<br>  \"eN\": {<br>    \"*\": \"L2 Current SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"26588\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:9D285579-46C5-5979-BDB0-599210BC45C4\",<br>  \"eN\": {<br>    \"*\": \"L2 Current SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"27568\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:87EBED24-4791-5182-AB10-2E30E0034E96",
+      "label": "L2 Current LoLo Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:87EBED24-4791-5182-AB10-2E30E0034E96\",<br>  \"eN\": {<br>    \"*\": \"L2 Current LoLo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142",
+      "label": "L2 Current LoLo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142\",<br>  \"eN\": {<br>    \"*\": \"L2 Current LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"28712\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:CB385DD9-1BDB-5C69-9DAE-DAA1731FD622",
+      "label": "L2 Current Lo Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:CB385DD9-1BDB-5C69-9DAE-DAA1731FD622\",<br>  \"eN\": {<br>    \"*\": \"L2 Current Lo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E",
+      "label": "L2 Current Lo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E\",<br>  \"eN\": {<br>    \"*\": \"L2 Current Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"29841\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:DD35C1BF-614E-5560-AA8E-02470002F8CA",
+      "label": "L2 Current Hi Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:DD35C1BF-614E-5560-AA8E-02470002F8CA\",<br>  \"eN\": {<br>    \"*\": \"L2 Current Hi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:DDAA371E-796E-57AB-ABDC-9E386A307464\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:DDAA371E-796E-57AB-ABDC-9E386A307464",
       "label": "L2 Current Hi",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:DDAA371E-796E-57AB-ABDC-9E386A307464\",<br>  \"eN\": {<br>    \"*\": \"L2 Current Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"27073\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:DDAA371E-796E-57AB-ABDC-9E386A307464\",<br>  \"eN\": {<br>    \"*\": \"L2 Current Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"30977\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:D6749F35-6729-5221-84C4-29ED4F3D5419",
+      "label": "L2 Current HiHi Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:D6749F35-6729-5221-84C4-29ED4F3D5419\",<br>  \"eN\": {<br>    \"*\": \"L2 Current HiHi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:1CD30BD6-3831-571C-BFAA-0A1CFE2C4FC1\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:1CD30BD6-3831-571C-BFAA-0A1CFE2C4FC1",
       "label": "L2 Current HiHi",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:1CD30BD6-3831-571C-BFAA-0A1CFE2C4FC1\",<br>  \"eN\": {<br>    \"*\": \"L2 Current HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"27551\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:1CD30BD6-3831-571C-BFAA-0A1CFE2C4FC1\",<br>  \"eN\": {<br>    \"*\": \"L2 Current HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"32125\"<br>  ]<br>}</pre>"
     },
     {
-      "id": "urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD",
-      "label": "L3 Current LoLo",
-      "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD\",<br>  \"eN\": {<br>    \"*\": \"L3 Current LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"28028\"<br>  ]<br>}</pre>"
-    },
-    {
-      "id": "urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE",
-      "label": "L3 Current Lo",
-      "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE\",<br>  \"eN\": {<br>    \"*\": \"L3 Current Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"28520\"<br>  ]<br>}</pre>"
+      "id": "urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C",
+      "label": "L3 Current Series",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C\",<br>  \"eN\": {<br>    \"*\": \"L3 Current Series\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"setpoint\": [<br>      \"urn:uuid:FC8882DC-3AA9-5235-BF94-C18903D27E79\"<br>    ],<br>    \"alarms\": [<br>      \"urn:uuid:09020ACF-AB44-5C27-9D88-BBF5C6BA1005\",<br>      \"urn:uuid:A5E6E156-74E9-55F7-A21D-60495FCE8CB9\",<br>      \"urn:uuid:F26C1721-7985-599F-B2BB-231D599B7579\",<br>      \"urn:uuid:0629C499-297B-51BD-9760-70A8AA1BCA66\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:488049FF-CBB1-50E7-BA2B-21C9022A3882\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:488049FF-CBB1-50E7-BA2B-21C9022A3882",
       "label": "L3 Current",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:488049FF-CBB1-50E7-BA2B-21C9022A3882\",<br>  \"eN\": {<br>    \"*\": \"L3 Current\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"29014\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:488049FF-CBB1-50E7-BA2B-21C9022A3882\",<br>  \"eN\": {<br>    \"*\": \"L3 Current\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"34242\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:FC8882DC-3AA9-5235-BF94-C18903D27E79",
+      "label": "L3 Current Setpoint",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:FC8882DC-3AA9-5235-BF94-C18903D27E79\",<br>  \"eN\": {<br>    \"*\": \"L3 Current Setpoint\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:012E09F4-69C4-58DC-A120-410F7246C42C\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:012E09F4-69C4-58DC-A120-410F7246C42C",
       "label": "L3 Current SP",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:012E09F4-69C4-58DC-A120-410F7246C42C\",<br>  \"eN\": {<br>    \"*\": \"L3 Current SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"29498\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:012E09F4-69C4-58DC-A120-410F7246C42C\",<br>  \"eN\": {<br>    \"*\": \"L3 Current SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"35425\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:09020ACF-AB44-5C27-9D88-BBF5C6BA1005",
+      "label": "L3 Current LoLo Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:09020ACF-AB44-5C27-9D88-BBF5C6BA1005\",<br>  \"eN\": {<br>    \"*\": \"L3 Current LoLo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD",
+      "label": "L3 Current LoLo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD\",<br>  \"eN\": {<br>    \"*\": \"L3 Current LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"36599\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:A5E6E156-74E9-55F7-A21D-60495FCE8CB9",
+      "label": "L3 Current Lo Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:A5E6E156-74E9-55F7-A21D-60495FCE8CB9\",<br>  \"eN\": {<br>    \"*\": \"L3 Current Lo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE",
+      "label": "L3 Current Lo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE\",<br>  \"eN\": {<br>    \"*\": \"L3 Current Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"37767\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:F26C1721-7985-599F-B2BB-231D599B7579",
+      "label": "L3 Current Hi Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:F26C1721-7985-599F-B2BB-231D599B7579\",<br>  \"eN\": {<br>    \"*\": \"L3 Current Hi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:FCE0D6A7-0ADF-58B2-BFD0-C06480BA96B2\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:FCE0D6A7-0ADF-58B2-BFD0-C06480BA96B2",
       "label": "L3 Current Hi",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:FCE0D6A7-0ADF-58B2-BFD0-C06480BA96B2\",<br>  \"eN\": {<br>    \"*\": \"L3 Current Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"29987\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:FCE0D6A7-0ADF-58B2-BFD0-C06480BA96B2\",<br>  \"eN\": {<br>    \"*\": \"L3 Current Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"38947\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:0629C499-297B-51BD-9760-70A8AA1BCA66",
+      "label": "L3 Current HiHi Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:0629C499-297B-51BD-9760-70A8AA1BCA66\",<br>  \"eN\": {<br>    \"*\": \"L3 Current HiHi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:CF0639D5-8643-54D6-94AA-5CA772DE4B26\"<br>    ]<br>  }<br>}</pre>"
     },
     {
       "id": "urn:uuid:CF0639D5-8643-54D6-94AA-5CA772DE4B26",
       "label": "L3 Current HiHi",
       "group": "value",
-      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:CF0639D5-8643-54D6-94AA-5CA772DE4B26\",<br>  \"eN\": {<br>    \"*\": \"L3 Current HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"30483\"<br>  ]<br>}</pre>"
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:CF0639D5-8643-54D6-94AA-5CA772DE4B26\",<br>  \"eN\": {<br>    \"*\": \"L3 Current HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"40139\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "label": "Voltage Measurand",
+      "group": "measurand",
+      "title": "<pre>{<br>  \"meU\": \"V\",<br>  \"meT\": \"numeric\",<br>  \"meAq\": \"sample\",<br>  \"eC\": \"measurand\",<br>  \"eID\": \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\",<br>  \"eN\": {<br>    \"*\": \"Voltage Measurand\"<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "label": "=UBA01.PGA01",
+      "group": "sensor",
+      "title": "<pre>{<br>  \"eC\": \"sensor\",<br>  \"eID\": \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.PGA01\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6\"<br>    ],<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97",
+      "label": "L1 Voltage Series",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage Series\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"setpoint\": [<br>      \"urn:uuid:E57B9A46-462E-5A9B-82F4-7EA8954A7E77\"<br>    ],<br>    \"alarms\": [<br>      \"urn:uuid:DB5F7A9A-DAEA-5610-BBCE-9138BA1C6216\",<br>      \"urn:uuid:1131898E-26BD-5AA0-AB67-B5BA1A281363\",<br>      \"urn:uuid:670C842B-9AA8-52EE-9950-194AC67C3C90\",<br>      \"urn:uuid:3470D8D6-10B7-55A2-9674-0B64F83391E1\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:26FB922F-1B3D-526E-B9B4-A2BB0BA6F06F\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:26FB922F-1B3D-526E-B9B4-A2BB0BA6F06F",
+      "label": "L1 Voltage",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:26FB922F-1B3D-526E-B9B4-A2BB0BA6F06F\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"43092\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:E57B9A46-462E-5A9B-82F4-7EA8954A7E77",
+      "label": "L1 Voltage Setpoint",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:E57B9A46-462E-5A9B-82F4-7EA8954A7E77\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage Setpoint\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:73E82889-6127-5E0E-8388-EA071FFE62B0\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:73E82889-6127-5E0E-8388-EA071FFE62B0",
+      "label": "L1 Voltage SP",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:73E82889-6127-5E0E-8388-EA071FFE62B0\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"44300\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:DB5F7A9A-DAEA-5610-BBCE-9138BA1C6216",
+      "label": "L1 Voltage LoLo Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:DB5F7A9A-DAEA-5610-BBCE-9138BA1C6216\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage LoLo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:41297EB8-2396-5714-A89A-BDFAF85AFAA7\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:41297EB8-2396-5714-A89A-BDFAF85AFAA7",
+      "label": "L1 Voltage LoLo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:41297EB8-2396-5714-A89A-BDFAF85AFAA7\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"45499\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:1131898E-26BD-5AA0-AB67-B5BA1A281363",
+      "label": "L1 Voltage Lo Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:1131898E-26BD-5AA0-AB67-B5BA1A281363\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage Lo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:2B82B84A-B372-5805-8422-1EEC1E96FA56\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:2B82B84A-B372-5805-8422-1EEC1E96FA56",
+      "label": "L1 Voltage Lo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:2B82B84A-B372-5805-8422-1EEC1E96FA56\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"46708\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:670C842B-9AA8-52EE-9950-194AC67C3C90",
+      "label": "L1 Voltage Hi Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:670C842B-9AA8-52EE-9950-194AC67C3C90\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage Hi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:D7706777-4125-56DB-AF7C-03E90EC38AA6\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:D7706777-4125-56DB-AF7C-03E90EC38AA6",
+      "label": "L1 Voltage Hi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:D7706777-4125-56DB-AF7C-03E90EC38AA6\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"47923\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:3470D8D6-10B7-55A2-9674-0B64F83391E1",
+      "label": "L1 Voltage HiHi Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:3470D8D6-10B7-55A2-9674-0B64F83391E1\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage HiHi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:6236AE7B-84D3-5574-800A-25E94881BC3C\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:6236AE7B-84D3-5574-800A-25E94881BC3C",
+      "label": "L1 Voltage HiHi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:6236AE7B-84D3-5574-800A-25E94881BC3C\",<br>  \"eN\": {<br>    \"*\": \"L1 Voltage HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"49150\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A",
+      "label": "L2 Voltage Series",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage Series\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"setpoint\": [<br>      \"urn:uuid:31429B71-CC5A-551F-BF17-C04D59968F43\"<br>    ],<br>    \"alarms\": [<br>      \"urn:uuid:22353969-98C8-54F7-8DAE-05BEE84A445D\",<br>      \"urn:uuid:1FCACE8F-1866-5806-9F88-89AE78CB60A1\",<br>      \"urn:uuid:D0E1EFA6-8588-5C95-88B3-7B08E6A1D032\",<br>      \"urn:uuid:66D8F74E-B250-543C-9E5B-B33A55941D87\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:4C0A29C4-8DC2-5766-8E3C-406B8F02973C\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:4C0A29C4-8DC2-5766-8E3C-406B8F02973C",
+      "label": "L2 Voltage",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:4C0A29C4-8DC2-5766-8E3C-406B8F02973C\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"51370\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:31429B71-CC5A-551F-BF17-C04D59968F43",
+      "label": "L2 Voltage Setpoint",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:31429B71-CC5A-551F-BF17-C04D59968F43\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage Setpoint\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:BBA835A9-5146-5E06-B442-6787030B9069\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:BBA835A9-5146-5E06-B442-6787030B9069",
+      "label": "L2 Voltage SP",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:BBA835A9-5146-5E06-B442-6787030B9069\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"52604\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:22353969-98C8-54F7-8DAE-05BEE84A445D",
+      "label": "L2 Voltage LoLo Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:22353969-98C8-54F7-8DAE-05BEE84A445D\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage LoLo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:41030E64-C67D-572B-BA21-9759BB3F7B48\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:41030E64-C67D-572B-BA21-9759BB3F7B48",
+      "label": "L2 Voltage LoLo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:41030E64-C67D-572B-BA21-9759BB3F7B48\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"53850\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:1FCACE8F-1866-5806-9F88-89AE78CB60A1",
+      "label": "L2 Voltage Lo Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:1FCACE8F-1866-5806-9F88-89AE78CB60A1\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage Lo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:F65161A6-799D-55EF-81A3-7DD4BCC482ED\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:F65161A6-799D-55EF-81A3-7DD4BCC482ED",
+      "label": "L2 Voltage Lo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:F65161A6-799D-55EF-81A3-7DD4BCC482ED\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"55088\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:D0E1EFA6-8588-5C95-88B3-7B08E6A1D032",
+      "label": "L2 Voltage Hi Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:D0E1EFA6-8588-5C95-88B3-7B08E6A1D032\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage Hi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:44D23411-C508-5E17-8EF2-0B80DD138271\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:44D23411-C508-5E17-8EF2-0B80DD138271",
+      "label": "L2 Voltage Hi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:44D23411-C508-5E17-8EF2-0B80DD138271\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"56341\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:66D8F74E-B250-543C-9E5B-B33A55941D87",
+      "label": "L2 Voltage HiHi Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:66D8F74E-B250-543C-9E5B-B33A55941D87\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage HiHi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:F9C32FD0-308F-585F-AA26-F3E4F39866BE\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:F9C32FD0-308F-585F-AA26-F3E4F39866BE",
+      "label": "L2 Voltage HiHi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:F9C32FD0-308F-585F-AA26-F3E4F39866BE\",<br>  \"eN\": {<br>    \"*\": \"L2 Voltage HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"57574\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2",
+      "label": "L3 Voltage Series",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage Series\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"setpoint\": [<br>      \"urn:uuid:71F17594-31EA-5E1A-B8AB-796A0417EBCB\"<br>    ],<br>    \"alarms\": [<br>      \"urn:uuid:B785CCA0-1E36-5B1D-A3A1-FD062A8738D4\",<br>      \"urn:uuid:55DE95C6-FB6B-51A9-89BC-E8D8ED24BDBF\",<br>      \"urn:uuid:43283AA3-D79D-58B2-A394-9233E48E9F00\",<br>      \"urn:uuid:592821AE-88E6-5D73-9AA6-1CFD392D4D13\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:623B4CD2-B2C8-5F3A-BA7C-A53F0EF9299D\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:623B4CD2-B2C8-5F3A-BA7C-A53F0EF9299D",
+      "label": "L3 Voltage",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:623B4CD2-B2C8-5F3A-BA7C-A53F0EF9299D\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"59881\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:71F17594-31EA-5E1A-B8AB-796A0417EBCB",
+      "label": "L3 Voltage Setpoint",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:71F17594-31EA-5E1A-B8AB-796A0417EBCB\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage Setpoint\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:9AA0D546-7FF4-5781-A9AF-9119B025630E\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:9AA0D546-7FF4-5781-A9AF-9119B025630E",
+      "label": "L3 Voltage SP",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:9AA0D546-7FF4-5781-A9AF-9119B025630E\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage SP\"<br>  },<br>  \"v\": [<br>    \"0\"<br>  ],<br>  \"vT\": [<br>    \"61145\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:B785CCA0-1E36-5B1D-A3A1-FD062A8738D4",
+      "label": "L3 Voltage LoLo Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:B785CCA0-1E36-5B1D-A3A1-FD062A8738D4\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage LoLo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:505A75E6-5A0D-565C-BA48-C1EB9C873D9B\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:505A75E6-5A0D-565C-BA48-C1EB9C873D9B",
+      "label": "L3 Voltage LoLo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:505A75E6-5A0D-565C-BA48-C1EB9C873D9B\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage LoLo\"<br>  },<br>  \"v\": [<br>    \"-2\"<br>  ],<br>  \"vT\": [<br>    \"62403\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:55DE95C6-FB6B-51A9-89BC-E8D8ED24BDBF",
+      "label": "L3 Voltage Lo Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:55DE95C6-FB6B-51A9-89BC-E8D8ED24BDBF\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage Lo Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:1341B288-91B8-5953-AB73-D4BCAB214FBF\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:1341B288-91B8-5953-AB73-D4BCAB214FBF",
+      "label": "L3 Voltage Lo",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:1341B288-91B8-5953-AB73-D4BCAB214FBF\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage Lo\"<br>  },<br>  \"v\": [<br>    \"-1\"<br>  ],<br>  \"vT\": [<br>    \"63666\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:43283AA3-D79D-58B2-A394-9233E48E9F00",
+      "label": "L3 Voltage Hi Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:43283AA3-D79D-58B2-A394-9233E48E9F00\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage Hi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:590EBA36-7874-504C-88B6-C5EDEC9852EA\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:590EBA36-7874-504C-88B6-C5EDEC9852EA",
+      "label": "L3 Voltage Hi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:590EBA36-7874-504C-88B6-C5EDEC9852EA\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage Hi\"<br>  },<br>  \"v\": [<br>    \"1\"<br>  ],<br>  \"vT\": [<br>    \"64930\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:592821AE-88E6-5D73-9AA6-1CFD392D4D13",
+      "label": "L3 Voltage HiHi Alarm",
+      "group": "series",
+      "title": "<pre>{<br>  \"eC\": \"series\",<br>  \"eID\": \"urn:uuid:592821AE-88E6-5D73-9AA6-1CFD392D4D13\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage HiHi Alarm\"<br>  },<br>  \"eR\": {<br>    \"measurand\": [<br>      \"urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA\"<br>    ],<br>    \"child_of\": [<br>      \"urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465\"<br>    ],<br>    \"values\": [<br>      \"urn:uuid:537DE876-6BAD-58F3-B6C8-27AC23BC1032\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:537DE876-6BAD-58F3-B6C8-27AC23BC1032",
+      "label": "L3 Voltage HiHi",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:537DE876-6BAD-58F3-B6C8-27AC23BC1032\",<br>  \"eN\": {<br>    \"*\": \"L3 Voltage HiHi\"<br>  },<br>  \"v\": [<br>    \"2\"<br>  ],<br>  \"vT\": [<br>    \"66202\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6",
+      "label": "=UBA01",
+      "group": "device",
+      "title": "<pre>{<br>  \"eC\": \"device\",<br>  \"eID\": \"urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6\",<br>  \"eN\": {<br>    \"*\": \"=UBA01\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:35B91CC4-2A0C-5F99-94CF-8CB653E74F35",
+      "label": "=UBA01.PHA01",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:35B91CC4-2A0C-5F99-94CF-8CB653E74F35\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.PHA01\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6\"<br>    ]<br>  },<br>  \"v\": [<br>    \"WAITING\"<br>  ],<br>  \"vT\": [<br>    \"67259\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:F6E40ADF-30FA-5FFC-B102-D12A2B608381",
+      "label": "=UBA01.WBA01",
+      "group": "device",
+      "title": "<pre>{<br>  \"eC\": \"device\",<br>  \"eID\": \"urn:uuid:F6E40ADF-30FA-5FFC-B102-D12A2B608381\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.WBA01\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:0A020807-8EB8-547C-8658-FB943B38738D",
+      "label": "=UBA01.WBA02",
+      "group": "device",
+      "title": "<pre>{<br>  \"eC\": \"device\",<br>  \"eID\": \"urn:uuid:0A020807-8EB8-547C-8658-FB943B38738D\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.WBA02\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:0C8F5AA7-FE7C-51D4-8F5D-9069CE8C7C9D",
+      "label": "=UBA01.WBA03",
+      "group": "device",
+      "title": "<pre>{<br>  \"eC\": \"device\",<br>  \"eID\": \"urn:uuid:0C8F5AA7-FE7C-51D4-8F5D-9069CE8C7C9D\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.WBA03\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6\"<br>    ]<br>  }<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:EF2B8069-57D3-57A7-ACD7-AFC44F92E4E9",
+      "label": "=UBA01.WBA01.PFA01",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:EF2B8069-57D3-57A7-ACD7-AFC44F92E4E9\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.WBA01.PFA01\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:F6E40ADF-30FA-5FFC-B102-D12A2B608381\"<br>    ]<br>  },<br>  \"v\": [<br>    \"vita40_green_standby\"<br>  ],<br>  \"vT\": [<br>    \"68990\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:D137FCDE-5D0F-5638-9D54-DD747E6E288B",
+      "label": "=UBA01.WBA02.PFA01",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:D137FCDE-5D0F-5638-9D54-DD747E6E288B\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.WBA02.PFA01\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:0A020807-8EB8-547C-8658-FB943B38738D\"<br>    ]<br>  },<br>  \"v\": [<br>    \"vita40_green_standby\"<br>  ],<br>  \"vT\": [<br>    \"69667\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:939CEDEB-37E1-5A2F-8FE1-9670DA332B18",
+      "label": "=UBA01.WBA03.PFA01",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:939CEDEB-37E1-5A2F-8FE1-9670DA332B18\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.WBA03.PFA01\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:0C8F5AA7-FE7C-51D4-8F5D-9069CE8C7C9D\"<br>    ]<br>  },<br>  \"v\": [<br>    \"vita40_green_standby\"<br>  ],<br>  \"vT\": [<br>    \"70336\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:B5F3A221-B019-5C70-BF07-013B9802A666",
+      "label": "=UBA01.WBA01.PFA02",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:B5F3A221-B019-5C70-BF07-013B9802A666\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.WBA01.PFA02\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:F6E40ADF-30FA-5FFC-B102-D12A2B608381\"<br>    ]<br>  },<br>  \"v\": [<br>    \"vita40_green_standby\"<br>  ],<br>  \"vT\": [<br>    \"71017\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:5D3A6517-C70E-581F-91BB-16CB804CE45B",
+      "label": "=UBA01.WBA02.PFA02",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:5D3A6517-C70E-581F-91BB-16CB804CE45B\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.WBA02.PFA02\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:0A020807-8EB8-547C-8658-FB943B38738D\"<br>    ]<br>  },<br>  \"v\": [<br>    \"vita40_green_standby\"<br>  ],<br>  \"vT\": [<br>    \"71679\"<br>  ]<br>}</pre>"
+    },
+    {
+      "id": "urn:uuid:211B2903-A418-5157-AD9A-1C5BF9001F94",
+      "label": "=UBA01.WBA03.PFA02",
+      "group": "value",
+      "title": "<pre>{<br>  \"eC\": \"value\",<br>  \"eID\": \"urn:uuid:211B2903-A418-5157-AD9A-1C5BF9001F94\",<br>  \"eN\": {<br>    \"*\": \"=UBA01.WBA03.PFA02\"<br>  },<br>  \"eR\": {<br>    \"child_of\": [<br>      \"urn:uuid:0C8F5AA7-FE7C-51D4-8F5D-9069CE8C7C9D\"<br>    ]<br>  },<br>  \"v\": [<br>    \"vita40_green_standby\"<br>  ],<br>  \"vT\": [<br>    \"72352\"<br>  ]<br>}</pre>"
     }
   ],
   "edges": [
+    {
+      "from": "urn:uuid:6C706AD8-837F-5101-8F48-486176408840",
+      "to": "urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1",
+      "arrows": "to",
+      "label": "child_of"
+    },
     {
       "from": "urn:uuid:E1AA08E5-8D72-5EF9-9684-96CB5CC18F7D",
       "to": "urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1",
@@ -291,13 +663,25 @@
       "label": "values"
     },
     {
-      "from": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "from": "urn:uuid:5C34CDC5-3867-5156-AEED-BE5FAE40C1C9",
       "to": "urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1",
       "arrows": "to",
       "label": "child_of"
     },
     {
-      "from": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "from": "urn:uuid:72EE5720-7F93-505C-BB73-38BAAA04C0F5",
+      "to": "urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "to": "urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
       "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
       "arrows": "to",
       "label": "measurand"
@@ -310,7 +694,7 @@
     },
     {
       "from": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
-      "to": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
       "arrows": "to",
       "label": "child_of"
     },
@@ -322,25 +706,25 @@
     },
     {
       "from": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
-      "to": "urn:uuid:9D5E1A9D-6650-5976-92EC-8EC654915205",
+      "to": "urn:uuid:EA841B2D-C974-5FD7-BA1E-B77AB99E08D4",
       "arrows": "to",
       "label": "alarms"
     },
     {
       "from": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
-      "to": "urn:uuid:58E4DCB2-4E45-56D1-B068-4E7FA2A90E5D",
+      "to": "urn:uuid:DEE1615F-06E6-59A0-BB47-11836845997F",
       "arrows": "to",
       "label": "alarms"
     },
     {
       "from": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
-      "to": "urn:uuid:0FF9AFCC-1242-58BC-8E91-A0F88056A2CF",
+      "to": "urn:uuid:3CB121CA-CD67-566B-96F7-5FF6CA7132F7",
       "arrows": "to",
       "label": "alarms"
     },
     {
       "from": "urn:uuid:AEB2EDD7-425B-57F2-90E2-48FFAF977F8A",
-      "to": "urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56",
+      "to": "urn:uuid:E8EBA6E4-8075-5942-9F25-AEF164030000",
       "arrows": "to",
       "label": "alarms"
     },
@@ -358,7 +742,7 @@
     },
     {
       "from": "urn:uuid:E8691C52-1F46-55B9-BBB2-91B9A0D2350E",
-      "to": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
       "arrows": "to",
       "label": "child_of"
     },
@@ -376,7 +760,7 @@
     },
     {
       "from": "urn:uuid:EA841B2D-C974-5FD7-BA1E-B77AB99E08D4",
-      "to": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
       "arrows": "to",
       "label": "child_of"
     },
@@ -394,7 +778,7 @@
     },
     {
       "from": "urn:uuid:DEE1615F-06E6-59A0-BB47-11836845997F",
-      "to": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
       "arrows": "to",
       "label": "child_of"
     },
@@ -412,7 +796,7 @@
     },
     {
       "from": "urn:uuid:3CB121CA-CD67-566B-96F7-5FF6CA7132F7",
-      "to": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
       "arrows": "to",
       "label": "child_of"
     },
@@ -430,7 +814,7 @@
     },
     {
       "from": "urn:uuid:E8EBA6E4-8075-5942-9F25-AEF164030000",
-      "to": "urn:uuid:D4564C13-F031-5A26-856B-338AAD7B4FA7",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
       "arrows": "to",
       "label": "child_of"
     },
@@ -439,6 +823,774 @@
       "to": "urn:uuid:C9DDCCE4-3E38-57BE-ADCC-343B8C879E56",
       "arrows": "to",
       "label": "values"
+    },
+    {
+      "from": "urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD",
+      "to": "urn:uuid:4A300E19-61F1-59C3-B124-9D0EBAA14254",
+      "arrows": "to",
+      "label": "setpoint"
+    },
+    {
+      "from": "urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD",
+      "to": "urn:uuid:87EBED24-4791-5182-AB10-2E30E0034E96",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD",
+      "to": "urn:uuid:CB385DD9-1BDB-5C69-9DAE-DAA1731FD622",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD",
+      "to": "urn:uuid:DD35C1BF-614E-5560-AA8E-02470002F8CA",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD",
+      "to": "urn:uuid:D6749F35-6729-5221-84C4-29ED4F3D5419",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:8E3F66E9-E503-53E2-BB17-AC8914836CAD",
+      "to": "urn:uuid:EF6804B1-FD57-59E3-9630-A79F8476FE04",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:4A300E19-61F1-59C3-B124-9D0EBAA14254",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:4A300E19-61F1-59C3-B124-9D0EBAA14254",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:4A300E19-61F1-59C3-B124-9D0EBAA14254",
+      "to": "urn:uuid:9D285579-46C5-5979-BDB0-599210BC45C4",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:87EBED24-4791-5182-AB10-2E30E0034E96",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:87EBED24-4791-5182-AB10-2E30E0034E96",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:87EBED24-4791-5182-AB10-2E30E0034E96",
+      "to": "urn:uuid:ED0CDC2E-5F6B-5AD8-BA53-0B05FACC4142",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:CB385DD9-1BDB-5C69-9DAE-DAA1731FD622",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:CB385DD9-1BDB-5C69-9DAE-DAA1731FD622",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:CB385DD9-1BDB-5C69-9DAE-DAA1731FD622",
+      "to": "urn:uuid:DCE1D31B-CE5E-52D1-9DA4-6BBF5E1CDF9E",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:DD35C1BF-614E-5560-AA8E-02470002F8CA",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:DD35C1BF-614E-5560-AA8E-02470002F8CA",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:DD35C1BF-614E-5560-AA8E-02470002F8CA",
+      "to": "urn:uuid:DDAA371E-796E-57AB-ABDC-9E386A307464",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:D6749F35-6729-5221-84C4-29ED4F3D5419",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:D6749F35-6729-5221-84C4-29ED4F3D5419",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:D6749F35-6729-5221-84C4-29ED4F3D5419",
+      "to": "urn:uuid:1CD30BD6-3831-571C-BFAA-0A1CFE2C4FC1",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C",
+      "to": "urn:uuid:FC8882DC-3AA9-5235-BF94-C18903D27E79",
+      "arrows": "to",
+      "label": "setpoint"
+    },
+    {
+      "from": "urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C",
+      "to": "urn:uuid:09020ACF-AB44-5C27-9D88-BBF5C6BA1005",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C",
+      "to": "urn:uuid:A5E6E156-74E9-55F7-A21D-60495FCE8CB9",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C",
+      "to": "urn:uuid:F26C1721-7985-599F-B2BB-231D599B7579",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C",
+      "to": "urn:uuid:0629C499-297B-51BD-9760-70A8AA1BCA66",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:EEC66A28-5646-5A8F-A180-DB50A3FCA78C",
+      "to": "urn:uuid:488049FF-CBB1-50E7-BA2B-21C9022A3882",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:FC8882DC-3AA9-5235-BF94-C18903D27E79",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:FC8882DC-3AA9-5235-BF94-C18903D27E79",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:FC8882DC-3AA9-5235-BF94-C18903D27E79",
+      "to": "urn:uuid:012E09F4-69C4-58DC-A120-410F7246C42C",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:09020ACF-AB44-5C27-9D88-BBF5C6BA1005",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:09020ACF-AB44-5C27-9D88-BBF5C6BA1005",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:09020ACF-AB44-5C27-9D88-BBF5C6BA1005",
+      "to": "urn:uuid:B03835E7-607F-5380-B708-07AECEA1B3BD",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:A5E6E156-74E9-55F7-A21D-60495FCE8CB9",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:A5E6E156-74E9-55F7-A21D-60495FCE8CB9",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:A5E6E156-74E9-55F7-A21D-60495FCE8CB9",
+      "to": "urn:uuid:E1AF5064-DB92-5B65-9A31-08CD344D5DDE",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:F26C1721-7985-599F-B2BB-231D599B7579",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:F26C1721-7985-599F-B2BB-231D599B7579",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:F26C1721-7985-599F-B2BB-231D599B7579",
+      "to": "urn:uuid:FCE0D6A7-0ADF-58B2-BFD0-C06480BA96B2",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:0629C499-297B-51BD-9760-70A8AA1BCA66",
+      "to": "urn:uuid:87953DD9-6A26-5DB6-B146-B53E4A6B7E7E",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:0629C499-297B-51BD-9760-70A8AA1BCA66",
+      "to": "urn:uuid:636A7AAA-1525-51B8-8AE4-A75112D764B6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:0629C499-297B-51BD-9760-70A8AA1BCA66",
+      "to": "urn:uuid:CF0639D5-8643-54D6-94AA-5CA772DE4B26",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "to": "urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97",
+      "to": "urn:uuid:E57B9A46-462E-5A9B-82F4-7EA8954A7E77",
+      "arrows": "to",
+      "label": "setpoint"
+    },
+    {
+      "from": "urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97",
+      "to": "urn:uuid:DB5F7A9A-DAEA-5610-BBCE-9138BA1C6216",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97",
+      "to": "urn:uuid:1131898E-26BD-5AA0-AB67-B5BA1A281363",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97",
+      "to": "urn:uuid:670C842B-9AA8-52EE-9950-194AC67C3C90",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97",
+      "to": "urn:uuid:3470D8D6-10B7-55A2-9674-0B64F83391E1",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:950B3C32-FA42-543A-9F8C-4FDD051D5B97",
+      "to": "urn:uuid:26FB922F-1B3D-526E-B9B4-A2BB0BA6F06F",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:E57B9A46-462E-5A9B-82F4-7EA8954A7E77",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:E57B9A46-462E-5A9B-82F4-7EA8954A7E77",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:E57B9A46-462E-5A9B-82F4-7EA8954A7E77",
+      "to": "urn:uuid:73E82889-6127-5E0E-8388-EA071FFE62B0",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:DB5F7A9A-DAEA-5610-BBCE-9138BA1C6216",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:DB5F7A9A-DAEA-5610-BBCE-9138BA1C6216",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:DB5F7A9A-DAEA-5610-BBCE-9138BA1C6216",
+      "to": "urn:uuid:41297EB8-2396-5714-A89A-BDFAF85AFAA7",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:1131898E-26BD-5AA0-AB67-B5BA1A281363",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:1131898E-26BD-5AA0-AB67-B5BA1A281363",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:1131898E-26BD-5AA0-AB67-B5BA1A281363",
+      "to": "urn:uuid:2B82B84A-B372-5805-8422-1EEC1E96FA56",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:670C842B-9AA8-52EE-9950-194AC67C3C90",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:670C842B-9AA8-52EE-9950-194AC67C3C90",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:670C842B-9AA8-52EE-9950-194AC67C3C90",
+      "to": "urn:uuid:D7706777-4125-56DB-AF7C-03E90EC38AA6",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:3470D8D6-10B7-55A2-9674-0B64F83391E1",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:3470D8D6-10B7-55A2-9674-0B64F83391E1",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:3470D8D6-10B7-55A2-9674-0B64F83391E1",
+      "to": "urn:uuid:6236AE7B-84D3-5574-800A-25E94881BC3C",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A",
+      "to": "urn:uuid:31429B71-CC5A-551F-BF17-C04D59968F43",
+      "arrows": "to",
+      "label": "setpoint"
+    },
+    {
+      "from": "urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A",
+      "to": "urn:uuid:22353969-98C8-54F7-8DAE-05BEE84A445D",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A",
+      "to": "urn:uuid:1FCACE8F-1866-5806-9F88-89AE78CB60A1",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A",
+      "to": "urn:uuid:D0E1EFA6-8588-5C95-88B3-7B08E6A1D032",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A",
+      "to": "urn:uuid:66D8F74E-B250-543C-9E5B-B33A55941D87",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:6F86B4C0-BEB8-54D5-B68B-B2E710053F6A",
+      "to": "urn:uuid:4C0A29C4-8DC2-5766-8E3C-406B8F02973C",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:31429B71-CC5A-551F-BF17-C04D59968F43",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:31429B71-CC5A-551F-BF17-C04D59968F43",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:31429B71-CC5A-551F-BF17-C04D59968F43",
+      "to": "urn:uuid:BBA835A9-5146-5E06-B442-6787030B9069",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:22353969-98C8-54F7-8DAE-05BEE84A445D",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:22353969-98C8-54F7-8DAE-05BEE84A445D",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:22353969-98C8-54F7-8DAE-05BEE84A445D",
+      "to": "urn:uuid:41030E64-C67D-572B-BA21-9759BB3F7B48",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:1FCACE8F-1866-5806-9F88-89AE78CB60A1",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:1FCACE8F-1866-5806-9F88-89AE78CB60A1",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:1FCACE8F-1866-5806-9F88-89AE78CB60A1",
+      "to": "urn:uuid:F65161A6-799D-55EF-81A3-7DD4BCC482ED",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:D0E1EFA6-8588-5C95-88B3-7B08E6A1D032",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:D0E1EFA6-8588-5C95-88B3-7B08E6A1D032",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:D0E1EFA6-8588-5C95-88B3-7B08E6A1D032",
+      "to": "urn:uuid:44D23411-C508-5E17-8EF2-0B80DD138271",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:66D8F74E-B250-543C-9E5B-B33A55941D87",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:66D8F74E-B250-543C-9E5B-B33A55941D87",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:66D8F74E-B250-543C-9E5B-B33A55941D87",
+      "to": "urn:uuid:F9C32FD0-308F-585F-AA26-F3E4F39866BE",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2",
+      "to": "urn:uuid:71F17594-31EA-5E1A-B8AB-796A0417EBCB",
+      "arrows": "to",
+      "label": "setpoint"
+    },
+    {
+      "from": "urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2",
+      "to": "urn:uuid:B785CCA0-1E36-5B1D-A3A1-FD062A8738D4",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2",
+      "to": "urn:uuid:55DE95C6-FB6B-51A9-89BC-E8D8ED24BDBF",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2",
+      "to": "urn:uuid:43283AA3-D79D-58B2-A394-9233E48E9F00",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2",
+      "to": "urn:uuid:592821AE-88E6-5D73-9AA6-1CFD392D4D13",
+      "arrows": "to",
+      "label": "alarms"
+    },
+    {
+      "from": "urn:uuid:3EE82ED3-E804-5B24-B980-B8BECDA36AC2",
+      "to": "urn:uuid:623B4CD2-B2C8-5F3A-BA7C-A53F0EF9299D",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:71F17594-31EA-5E1A-B8AB-796A0417EBCB",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:71F17594-31EA-5E1A-B8AB-796A0417EBCB",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:71F17594-31EA-5E1A-B8AB-796A0417EBCB",
+      "to": "urn:uuid:9AA0D546-7FF4-5781-A9AF-9119B025630E",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:B785CCA0-1E36-5B1D-A3A1-FD062A8738D4",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:B785CCA0-1E36-5B1D-A3A1-FD062A8738D4",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:B785CCA0-1E36-5B1D-A3A1-FD062A8738D4",
+      "to": "urn:uuid:505A75E6-5A0D-565C-BA48-C1EB9C873D9B",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:55DE95C6-FB6B-51A9-89BC-E8D8ED24BDBF",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:55DE95C6-FB6B-51A9-89BC-E8D8ED24BDBF",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:55DE95C6-FB6B-51A9-89BC-E8D8ED24BDBF",
+      "to": "urn:uuid:1341B288-91B8-5953-AB73-D4BCAB214FBF",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:43283AA3-D79D-58B2-A394-9233E48E9F00",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:43283AA3-D79D-58B2-A394-9233E48E9F00",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:43283AA3-D79D-58B2-A394-9233E48E9F00",
+      "to": "urn:uuid:590EBA36-7874-504C-88B6-C5EDEC9852EA",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:592821AE-88E6-5D73-9AA6-1CFD392D4D13",
+      "to": "urn:uuid:8BD8F99B-AAB1-5D85-B7E0-6231BA4849DA",
+      "arrows": "to",
+      "label": "measurand"
+    },
+    {
+      "from": "urn:uuid:592821AE-88E6-5D73-9AA6-1CFD392D4D13",
+      "to": "urn:uuid:9B5B144A-1EC5-5250-8011-CC8EEEA01465",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:592821AE-88E6-5D73-9AA6-1CFD392D4D13",
+      "to": "urn:uuid:537DE876-6BAD-58F3-B6C8-27AC23BC1032",
+      "arrows": "to",
+      "label": "values"
+    },
+    {
+      "from": "urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6",
+      "to": "urn:uuid:8849E729-C27E-520A-8EF4-9E8CD6C695E1",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:35B91CC4-2A0C-5F99-94CF-8CB653E74F35",
+      "to": "urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:F6E40ADF-30FA-5FFC-B102-D12A2B608381",
+      "to": "urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:0A020807-8EB8-547C-8658-FB943B38738D",
+      "to": "urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:0C8F5AA7-FE7C-51D4-8F5D-9069CE8C7C9D",
+      "to": "urn:uuid:FBB1A379-1C4C-5EAC-8A8E-73E955C7ABC6",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:EF2B8069-57D3-57A7-ACD7-AFC44F92E4E9",
+      "to": "urn:uuid:F6E40ADF-30FA-5FFC-B102-D12A2B608381",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:D137FCDE-5D0F-5638-9D54-DD747E6E288B",
+      "to": "urn:uuid:0A020807-8EB8-547C-8658-FB943B38738D",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:939CEDEB-37E1-5A2F-8FE1-9670DA332B18",
+      "to": "urn:uuid:0C8F5AA7-FE7C-51D4-8F5D-9069CE8C7C9D",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:B5F3A221-B019-5C70-BF07-013B9802A666",
+      "to": "urn:uuid:F6E40ADF-30FA-5FFC-B102-D12A2B608381",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:5D3A6517-C70E-581F-91BB-16CB804CE45B",
+      "to": "urn:uuid:0A020807-8EB8-547C-8658-FB943B38738D",
+      "arrows": "to",
+      "label": "child_of"
+    },
+    {
+      "from": "urn:uuid:211B2903-A418-5157-AD9A-1C5BF9001F94",
+      "to": "urn:uuid:0C8F5AA7-FE7C-51D4-8F5D-9069CE8C7C9D",
+      "arrows": "to",
+      "label": "child_of"
     }
   ]
 }

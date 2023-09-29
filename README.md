@@ -2,6 +2,8 @@
 
 Reads SNON fragments from devices and visualizes them as a graph
 
+![image](https://github.com/dslik/snon-explorer/assets/5757591/339275de-2b7b-4d23-b837-387193ac08f7)
+
 ## Running the visualizer
 
 Step 1:

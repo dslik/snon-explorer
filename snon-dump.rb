@@ -7,7 +7,7 @@ print "Connecting to SNON device\n";
 socket = TCPSocket.open("192.168.88.101", "200");
 socket.print("{}\r\n");
 
-print "Reading SNON date\n";
+print "Reading SNON data\n";
 response = socket.gets;
 response = socket.gets;
 socket.close;
